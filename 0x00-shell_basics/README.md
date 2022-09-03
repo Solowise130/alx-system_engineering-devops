@@ -4,3 +4,4 @@
 3, Display current directory contents in a long format.
 4, Display current directory contents, including hidden files.
 5, Display current directory contents.
+6, Create a script that creates a directory named my first directory in the /tmp/ directory.
