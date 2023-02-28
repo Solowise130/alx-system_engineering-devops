@@ -1,0 +1,45 @@
+WHAT IS A SERVER?
+
+A Server is a high-powered computer built to store, process, and manage network data, devices, and systems.  In order words, it is a piece of computer hardware or software that provides functionality for other programs often called "services", such as sharing data or resources among multiple clients, or performing computation for a client. 
+
+WHAT IS THE ROLE OF A DOMAIN NAME?
+
+The Domain Name System enables users to access websites without having to know the associated IP address.
+
+WHAT TYPE OF DNS RECORD www IS IN www.foobar.com?
+
+      	Canonical Name (CNAME).
+
+WHAT IS THE ROLE OF THE WEB SERVER?
+
+      	A web server connects to the Internet and supports physical data interchange with other devices connected to the web.	
+
+WHAT IS THE ROLE OF AN APPLICATION SERVER?
+
+      	The application server provides clients with access to business logic, which is the part of a computer program that encodes the rules for how the program can create, store and manipulate its data.
+
+WHAT IS THE ROLE OF THE DATABASE?
+
+      	The primary role of a database is to store and display updated information in a web application
+
+WHAT IS THE SERVER USING TO COMMUNICATE WITH THE COMPUTER OF THE USER REQUESTING THE WEBSITE?
+
+      	The web server.
+
+EXPLAIN THE ISSUES THAT ARE ASSOCIATED WITH THE FOLLOWING; 
+
+  SINGLE POINT OF FAILURE (SPOF) INFRASTRUCTURE
+
+ A single point of failure (SPOF) is a potential risk posed by a flaw in the design, implementation or configuration of a circuit or system. SPOF refers to one fault or malfunction that can cause an entire system to stop operating.
+ 
+Downtime when maintenance needed (like deploying new code web server needs to be restarted)
+      	Down-time is any period when the computer on which a system is based is not operating. This may be because of a serious hardware or software problem.
+
+Cannot scale if too much incoming traffic
+
+
+The above infrastructure cannot scale if there’s too much incoming traffic because no second server in the system to share loads and the system will be overloaded.
+
+Diagram: 
+https://drive.google.com/file/d/13L2ytfByh4zkPGpokwxzmoQoNYGTo4ly/view?usp=sharing
+
