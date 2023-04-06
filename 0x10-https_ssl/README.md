@@ -16,7 +16,7 @@ RESOURCES
 
 * Bash function
 
-FILES, FUNCTIONS AND EXPECTED OUTPUTES
+FILES, FUNCTIONS AND EXPECTED OUTPUTS
 
 0-world_wide_web - configures my domain zone so that the subdomain www points to my load-balancer IP (lb-01). Let’s also add other subdomains to make our life easier, and write a Bash script that will display information about subdomains.
 
